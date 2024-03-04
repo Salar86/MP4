@@ -13,9 +13,10 @@ Made by Group 13
 ### Which are the most decisive factors for quitting a job?
 
 - Positive Correlation: OverTime showed a positive correlation with attrition, suggesting that employees who work or have worked overtime are more likely to leave.
-- Negative Correlations: YearsAtCompany showed a slight negative correlation with attrition. This indicates that employees with more years in the company are less likely to leave.
+- Negative Correlation: YearsAtCompany showed a slight negative correlation with attrition. This indicates that employees with more years in the company are less likely to leave.
 
 ### Which work positions and departments are in higher risk of losing employees?
+
 | Job Role                  | Attrition Rate |
 |---------------------------|----------------|
 | Sales Representative      | 0.397590       |
