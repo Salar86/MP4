@@ -17,17 +17,17 @@ Made by Group 13
 
 ### Which work positions and departments are in higher risk of losing employees?
 
-| Job Role                  | Attrition Rate |
-|---------------------------|----------------|
-| Sales Representative      | 0.397590       |
-| Laboratory Technician     | 0.239382       |
-| HR                        | 0.230769       |
-| Sales Executive           | 0.174847       |
-| Research Scientist        | 0.160959       |
-| Manufacturing Director    | 0.068966       |
-| Healthcare Representative | 0.068702       |
-| Manager                   | 0.049020       |
-| Research Director         | 0.025000       |
+| Job Role                  | Attrition Rate (%) |
+|---------------------------|--------------------|
+| Sales Representative      | 39.76%             |
+| Laboratory Technician     | 23.94%             |
+| HR                        | 23.08%             |
+| Sales Executive           | 17.48%             |
+| Research Scientist        | 16.10%             |
+| Manufacturing Director    | 6.90%              |
+| Healthcare Representative | 6.87%              |
+| Manager                   | 4.90%              |
+| Research Director         | 2.50%              |
 
 - Sales Representatives have the highest attrition rate at approximately 39.76%. This suggests that employees in this role are leaving the company at a significantly higher rate compared to other roles. 
 
@@ -35,11 +35,11 @@ Made by Group 13
 
 - On the other end, Research Directors show the lowest attrition rate at 2.5%. This suggests that employees in this role are more likely to stay with the company.
 
-| Department              | Attrition Rate |
-|-------------------------|----------------|
-| Sales                   | 0.206278       |
-| HR                      | 0.190476       |
-| Research and Development| 0.138398       |
+| Department              | Attrition Rate (%) |
+|-------------------------|---------------------|
+| Sales                   | 20.63%              |
+| HR                      | 19.05%              |
+| Research and Development| 13.84%              |
 
 - Sales Department has the highest attrition rate at 20.63%. This indicates that employees in the Sales department are leaving the company at a higher rate compared to the other two departments.
 
